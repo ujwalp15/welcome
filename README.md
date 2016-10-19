@@ -1,18 +1,14 @@
-No More Secrets
+Decrypting text
 ===============
 
-"No More Secrets" is the name I've lovingly given to the infamous "decrypting text" effect seen on
-screen in the 1992 hacker movie Sneakers. If you are unfamiliar with the effect, it can be seen
-at 0:35 in [this youtube video](https://www.youtube.com/watch?v=F5bAa6gFvLs&t=35).
-
-This project provides tools to recreate this effect in your projects.
+This project provides tools to recreate decrypting text effect in your projects.
 
 Here is a standalone executable called `nms` (provided in this project) that uses these tools to
 perform this effect on piped data:
 
 ![Screenshot](http://i.imgur.com/6gk6J4I.gif)
 
-Also included in this project is a program called `sneakers` that utilizes these tools to recreate,
+Also included in this project is a program called `glug` that utilizes these tools to recreate,
 almost identically, what we see in the above movie clip. 
 
 ![Screenshot](http://i.imgur.com/4V3wIjJ.gif)
